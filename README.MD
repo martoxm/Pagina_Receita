@@ -24,6 +24,3 @@ Este repositório é um projeto de treino para praticar HTML e CSS. Contém uma 
 Feito por Marto — uso como treino pessoal.
 
 ---
-
-
-
